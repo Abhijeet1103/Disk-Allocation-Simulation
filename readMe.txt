@@ -1,7 +1,3 @@
-// Nomaan Khan
-// CS 4348-001
-// Project 3
-
 List of files:
 
 AbsBlock.java
