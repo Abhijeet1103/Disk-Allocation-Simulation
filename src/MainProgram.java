@@ -15,8 +15,8 @@ public class MainProgram {
     public static void main (String [] args) throws Exception {
     	
     	int option = 0;
-        String fsMethod = args[0];
-        
+      //  String fsMethod = args[0];
+        String fsMethod = "contiguous";
         if (fsMethod.equals("contiguous"))
             fs = new ContiguousFA();
         else if (fsMethod.equals("chained"))
